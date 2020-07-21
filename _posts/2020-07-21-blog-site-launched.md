@@ -14,4 +14,4 @@ What type of posts you'll find:
 - Project updates/dev diary
 - Random memes
   
-Oh yeah, this site is powered by [Jekyll](http://jekyllrb.com) so I can use Markdown to author my posts instead of editing HTML files. This site also uses [Bootstrap](https://getbootstrap.com/) to style some stuff.
+Oh yeah, this site is powered by [Jekyll](http://jekyllrb.com) so I can use Markdown to author my posts instead of editing HTML files.
