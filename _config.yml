@@ -1,3 +1,2 @@
 name: Danial's Blog
 markdown: kramdown
-permalink: /:year/:month/:day/:title
