@@ -12,6 +12,11 @@
 }
 
 .color-theme {
+  color: #454565;
+  background-color: #dfdfef;
+}
+
+.color-body {
   background-color: #454565;
   color: #dfdfef;
 }
