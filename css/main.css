@@ -16,3 +16,7 @@ body {
   color: #454565;
   background-color: #dfdfef;
 }
+
+.content {
+  height: 100%;
+}
